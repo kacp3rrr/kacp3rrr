@@ -15,7 +15,7 @@ jobs:
 
           # Options
           user: kacp3rrr
-          template: terminal
+          template: classic
           base: header, activity, community, repositories, metadata
           plugin_isocalendar: yes
           plugin_languages: yes
