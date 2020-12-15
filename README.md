@@ -1,1 +1,11 @@
+# Kacp3r
+- Web Developer
+- JavaScript/HTML/CSS, Python, and Lua
+- Learning React & Typescript
+
+# Stats
+
 ![GitHub metrics](https://metrics.lecoq.io/kacp3rrr?base.header=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=full-year)
+
+
+
