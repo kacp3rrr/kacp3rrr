@@ -1,6 +1,6 @@
 # Kacp3r
 - Web Developer
-- JavaScript/HTML/CSS, Python, and Lua
+- JavaScript/HTML/CSS, TypeScript, Python, and Lua
 - Learning React & Typescript
 
 # Stats
